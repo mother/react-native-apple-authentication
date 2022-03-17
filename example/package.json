@@ -12,10 +12,11 @@
     "run:ios13": "yarn react-native run-ios --simulator=\"iPhone 11 ios13\""
   },
   "dependencies": {
-    "@invertase/react-native-apple-authentication": "^2.1.5",
+    "@invertase/react-native-apple-authentication": "file:..",
     "react": "17.0.2",
-    "react-native": "0.67.3",
+    "react-native": "0.66.2",
     "react-native-get-random-values": "^1.7.2",
+    "react-native-macos": "^0.66.0-0",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
